@@ -1,4 +1,4 @@
-#Flutter-CALCULAORA
+#Flutter-CALCULADORA
 
 -Gestor de estados GetX
 
