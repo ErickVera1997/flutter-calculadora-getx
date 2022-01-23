@@ -1,6 +1,6 @@
 # Flutter-Calculadora
 
--State Manager, GetX
+- State Manager, GetX
 
 # Screen
 
